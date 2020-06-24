@@ -9,7 +9,7 @@ ParameterEstimation.zip contains the files needed for the parameter estimation p
 
 -------------------
 
-DataImport contains a script of which you can visualize the raw data and get other data files to use for parameter estimation. Prepare_Measured_data.m is the main script. 
+DataImport contains a script of which you can visualize the raw data and get other data files to use for parameter estimation. Prepare_Measured_data.m is the main script. Patient data files can be downloaded from the DataFiles zip folder
 
 ----------
 
