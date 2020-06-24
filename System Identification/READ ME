@@ -5,4 +5,4 @@ ParameterEstimation.zip contains the files needed for the parameter estimation p
 
 -------------------
 
-Bode plots.m: not included in thesis, but might be fun to look at the influence of the inertia.
+Bode_plots.m: not included in thesis, but might be fun to look at the influence of the inertia.
