@@ -1,8 +1,16 @@
+Explanation of folders:
+
+
 Data Files.zip includes the patient data files (raw data and prepped data for parameter estimation). 
+
 -------------
 
 ParameterEstimation.zip contains the files needed for the parameter estimation procedures. Model.m is the main file from when you should run the script
 
 -------------------
+
+DataImport contains a script of which you can visualize the raw data and get other data files to use for parameter estimation. Prepare_Measured_data.m is the main script. 
+
+----------
 
 Bode_plots.m: not included in thesis, but might be fun to look at the influence of the inertia.
