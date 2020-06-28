@@ -5,7 +5,7 @@ Data Files.zip includes the patient data files (raw data and prepped data for pa
 
 -------------
 
-ParameterEstimation.zip contains the files needed for the parameter estimation procedures. Model.m is the main file from when you should run the script
+SystemIdentification.zip contains the files needed for the parameter estimation procedures. Model.m is the main file from when you should run the script
 
 -------------------
 
